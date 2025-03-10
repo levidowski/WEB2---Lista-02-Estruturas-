@@ -4,7 +4,7 @@ RESULTADO DO CÓDIGO:
 ![resultado mega-sena](https://github.com/user-attachments/assets/e4fbc525-67e2-4258-b97b-191d8cd9c4a2)
 
 
-Instruções
+Instruções - 
 Em dupla ou individualmente, desenvolva um programa em PHP que simule o jogo da Mega Sena:
 
 Crie uma função que gere 6 números aleatórios entre 1 e 60, que devem ser organizados em ordem crescente e armazenados em um array.
